@@ -16,3 +16,8 @@ Fitur :
 
 ![dada](https://user-images.githubusercontent.com/49858542/69816947-0af65c00-122c-11ea-93c6-100dbe3270f2.JPG)
 
+Sertifikat Pelatihan
+
+![fh](https://user-images.githubusercontent.com/49858542/69817070-5446ab80-122c-11ea-83b9-c217ae6eb310.JPG)
+
+
