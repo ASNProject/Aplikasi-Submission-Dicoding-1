@@ -13,3 +13,6 @@ Fitur :
 ![ad](https://user-images.githubusercontent.com/49858542/69816841-d1bdec00-122b-11ea-8131-eb5dc3289884.JPG)
 
 3. About penulis
+
+![dada](https://user-images.githubusercontent.com/49858542/69816947-0af65c00-122c-11ea-93c6-100dbe3270f2.JPG)
+
