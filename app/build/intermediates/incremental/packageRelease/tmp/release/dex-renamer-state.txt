@@ -1,0 +1,4 @@
+#Thu Nov 28 19:28:36 ICT 2019
+base.0=E\:\\PROJECT ANDROID STUDIO\\Submission1\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out
+path.0=classes.dex
+renamed.0=classes.dex
