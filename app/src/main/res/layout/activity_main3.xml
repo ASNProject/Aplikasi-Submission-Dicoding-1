@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Main3Activity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="About"
+            android:textSize="30dp"
+            android:layout_marginTop="20dp"
+            android:textStyle="bold"
+            android:textAlignment="center"/>
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            android:layout_marginTop="20dp"
+            android:layout_gravity="center"
+            android:src="@drawable/b"
+            />
+        <TextView
+            android:id="@+id/nama"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Arief Setyo Nugroho"
+            android:textSize="30dp"
+            android:layout_marginTop="20dp"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textAlignment="center"/>
+
+        <TextView
+            android:id="@+id/email"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="arief.dulep02@gmail.com"
+            android:textSize="20dp"
+            android:layout_marginTop="8dp"
+            android:textStyle="bold"
+            android:textColor="#0000ff"
+            android:textAlignment="center"/>
+
+    </LinearLayout>
+</LinearLayout>

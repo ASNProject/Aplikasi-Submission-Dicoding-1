@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Submission1</string>
+    <string name="namamakanan">daftar makanan</string>
+    <string name="detail">Detail</string>
+    <string name="namajudul">daftar judul</string>
+    <string name="isidetal">isi</string>
+    <string name="deskripsi">deskripsi</string>
+    <string name="sumber">sumber</string>
+    <string name="about">About</string>
+</resources>
